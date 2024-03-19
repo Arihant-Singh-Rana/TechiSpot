@@ -7,7 +7,7 @@ Techispot is a community-driven platform for engineers, where they can connect, 
 
 - **Communities**: Several communities to assist learners through their posts and chats.
 
-- **Thoughts and Suggestions**: Engage in discussions with fellow engineers. Share your thoughts, ask questions, and provide valuable feedback.
+- **Thoughts and Suggestions**: Engage in discussions with fellow engineers. Share your thoughts, ask questions, and provide valuable .
 
 - **Creating Posts**: Share your thoughts by creating a post on which users can like, comment, and share.
 
